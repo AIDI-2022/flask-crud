@@ -1,6 +1,6 @@
-# RESTful API for CRUD (Create, Read, Update, Delete) Operations using Flask
+## RESTful API for CRUD (Create, Read, Update, Delete) Operations using Flask
 
-## Setup Configuration
+### Setup Configuration
 
 - Creating a local virtual environment : `python -m virtualenv env`
 
@@ -10,7 +10,7 @@
 
 - Run the application : `python api.py`
 
-## Features of the application
+### Features of the application
 
 The following operations can be done using Postman:
 
